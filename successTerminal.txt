@@ -2,65 +2,6 @@ PS C:\Users\ASUS> git --version
 git version 2.47.1.windows.1
 PS C:\Users\ASUS> git config --global user.name "raven2678"  
 PS C:\Users\ASUS> git config --global user.email "vaibhavmohane226@gmail.com"
-PS C:\Users\ASUS> ls  
-
-
-    Directory: C:\Users\ASUS
-
-
-Mode                 LastWriteTime         Length Name
-----                 -------------         ------ ----
-d-----        14-11-2024     19:36                .android
-d-----        30-12-2024     20:15                .arduinoIDE
-d-----        08-10-2024     18:26                .ipynb_checkpoints
-d-----        08-10-2024     18:26                .ipython
-d-----        08-10-2024     18:29                .jupyter
-d-----        30-12-2024     14:16                .keras
-d-----        05-07-2024     20:05                .matplotlib
-d-----        11-07-2024     19:28                .ms-ad
-d-----        01-12-2024     14:52                .streamlit
-d-----        02-06-2024     13:59                .vscode
-d-----        06-06-2024     15:32                ansel
-d-r---        17-09-2023     07:43                Contacts
-d-r---        01-01-2025     19:59                Desktop
-d-r---        30-12-2024     12:18                Documents
-dar---        01-01-2025     19:55                Downloads
-d-r---        17-09-2023     07:43                Favorites
-d-----        22-12-2024     19:30                githubdemo
-d-r---        17-09-2023     07:43                Links
-d-r---        17-09-2023     07:43                Music
-d-r---        17-09-2023     07:45                OneDrive
-d-r---        14-12-2024     21:30                Pictures
-d-----        27-06-2024     19:42                PycharmProjects
-d-r---        17-09-2023     07:43                Saved Games
-d-r---        01-06-2024     15:42                Searches
-d-r---        04-01-2025     18:57                Videos
--a----        22-12-2024     19:02              3 .bash_history
--a----        04-01-2025     20:43             61 .gitconfig
--a----        15-08-2024     20:00            242 .Patran.RecentFiles
--a----        29-07-2024     16:39           1004 express.opt
--a----        06-06-2024     11:20        2635835 get-pip.py
--a----        28-07-2024     19:54           1031 mscafea.ses.01
--a----        28-07-2024     20:06            902 mscfea.ses.01
--a----        28-07-2024     13:34           1016 patran.ses.01
--a----        28-07-2024     19:54           1033 patran.ses.02
--a----        28-07-2024     19:55           1033 patran.ses.03
--a----        28-07-2024     19:59           1033 patran.ses.04
--a----        28-07-2024     20:05           3536 patran.ses.05
--a----        28-07-2024     20:09           2321 patran.ses.06
--a----        28-07-2024     20:17           5403 patran.ses.07
--a----        29-07-2024     12:40          82107 patran.ses.08
--a----        29-07-2024     16:47          59135 patran.ses.09
--a----        29-07-2024     16:47             32 patran_conf.ini
--a----        29-07-2024     16:47         668478 scalefea.bdf
--a----        29-07-2024     16:47        2813448 scalefea.db
--a----        29-07-2024     16:47          42201 scalefea.db.jou
--a----        28-07-2024     20:09        2012212 test.db
--a----        28-07-2024     20:09           1214 test.db.jou
--a----        08-10-2024     18:26             72 Untitled.ipynb
--a----        13-08-2024     20:03              0 websiteTEST.py
-
-
 PS C:\Users\ASUS> cd desktop
 PS C:\Users\ASUS\desktop> mkdir gitdemo
 
